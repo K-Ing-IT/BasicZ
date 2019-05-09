@@ -1,1 +1,7 @@
-hallo welt
+Abkürzungen:
+Dir   - Daten im Ordner anzeigen lassen
+ls    - Daten im Ordner anzeigen lassen
+paw   - Pfad anzeigen lassen
+cd    - öffnen Ordner
+cd..  - Ordner zurückgehen
+mkdir - Ordner erstellen
