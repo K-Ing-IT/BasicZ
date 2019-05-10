@@ -19,3 +19,7 @@ GIT
   git checkout 
         -b
         -master
+        
+      help
+    man git
+    git help config
