@@ -16,4 +16,6 @@ GIT
   git log
   git reset --hard HEAD
   git diff
-  
+  git checkout 
+        -b
+        -master
