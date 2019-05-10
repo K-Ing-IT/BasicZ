@@ -1,1 +1,19 @@
-hallo welt
+ONENOTE
+  win+s = screenshoot
+  
+Linux
+  -?
+  -help
+ 
+GIT
+  TAB = Bei Eingabe TAB verfolständigen
+  git init
+  git add
+      --all
+      --graph
+  git commit
+        -m
+  git log
+  git reset --hard HEAD
+  git diff
+  
